@@ -29,7 +29,7 @@ const Hero = () => {
           </h2>
           <TextGenerateEffect
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words="Transforming concepts into Seamless User Experiences"
+            words="Transforming Ideas into Successful Reality"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             Hi, I&apos;m Aryan Tele, a Mobile Developer Based in India{" "}
