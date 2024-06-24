@@ -33,10 +33,10 @@ const Hero = () => {
             words="Transforming Ideas into Successful Reality"
           />
           <div className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m Aryan Tele, a{" "}
+            Hi, I&apos;m Aryan Tele,
             <span className="text-purple">
               <FlipWords words={["Mobile", "Website", "AI"]} />
-            </span>{" "}
+            </span>
             Developer based in India{" "}
           </div>
           <a href="#about">
