@@ -9,6 +9,7 @@ import Image from "next/image";
 import { FaHome } from "react-icons/fa";
 import WorkExperience from "@/components/WorkExperience";
 import Approach from "@/components/Approach";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
         <Clients />
         <WorkExperience />
         <Approach />
+        <Footer />
       </div>
     </main>
   );
