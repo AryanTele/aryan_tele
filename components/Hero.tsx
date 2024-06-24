@@ -3,6 +3,7 @@ import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 import MagicButton from "./ui/MagicButton";
 import { FaLocationArrow } from "react-icons/fa";
+import { FlipWords } from "./ui/FlipWords";
 
 const Hero = () => {
   return (
@@ -31,9 +32,13 @@ const Hero = () => {
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
             words="Transforming Ideas into Successful Reality"
           />
-          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m Aryan Tele, a Mobile Developer Based in India{" "}
-          </p>
+          <div className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
+            Hi, I&apos;m Aryan Tele, a{" "}
+            <span className="text-purple">
+              <FlipWords words={["Mobile", "Website", "AI"]} />
+            </span>{" "}
+            Developer based in India{" "}
+          </div>
           <a href="#about">
             <MagicButton
               title="Show my work"
