@@ -1,4 +1,4 @@
-# Portfolio
+# Developer Portfolio
 This is a Next.js project that serves as a modern portfolio website. It utilizes various technologies including TypeScript, CSS, and JavaScript to provide a dynamic and responsive user experience.
 
 ## Features
