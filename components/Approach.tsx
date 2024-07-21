@@ -14,7 +14,7 @@ const Approach = () => {
         <Card
           title="Planning & Stratergy"
           icon={<AceternityIcon order="Phase 1" />}
-          description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus, harum."
+          description=""
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -24,7 +24,7 @@ const Approach = () => {
         <Card
           title="Development & Progress"
           icon={<AceternityIcon order="Phase 2" />}
-          description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus, harum."
+          description=""
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -40,7 +40,7 @@ const Approach = () => {
         <Card
           title="Development & Launch"
           icon={<AceternityIcon order="Phase 3" />}
-          description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus, harum."
+          description=""
         >
           <CanvasRevealEffect
             animationSpeed={3}
