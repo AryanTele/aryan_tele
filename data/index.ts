@@ -84,7 +84,7 @@ export const projects = [
     des: "A smooth sneaker store built using flutter.",
     img: "/p2.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://github.com/AryanTele/ecommerce_app_flutter",
+    link: "github.com/AryanTele/ecommerce_app_flutter",
   },
   {
     id: 3,
@@ -92,7 +92,7 @@ export const projects = [
     des: "A REAL Software-as-a-Service app with AI features that let's you talk with your PDF.",
     img: "/p3.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://github.com/AryanTele/ChatPDF",
+    link: "github.com/AryanTele/ChatPDF",
   },
   {
     id: 4,
@@ -100,7 +100,7 @@ export const projects = [
     des: "Don't know what to watch, I have your back, enter your favorate movie and get similar recommendation.",
     img: "/p4.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/AryanTele/Movie-Recommendation-System",
+    link: "github.com/AryanTele/Movie-Recommendation-System",
   },
 ];
 
