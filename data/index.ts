@@ -76,7 +76,7 @@ export const projects = [
     des: "Price wise is a webscraping project that suggests the best time to buy amazon products",
     img: "/p1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://pricewiseshop.vercel.app/",
+    link: "pricewiseshop.vercel.app/",
   },
   {
     id: 2,
